@@ -1,0 +1,7 @@
+C:\Users\Jesper Nyberg\OneDrive\Skrivbord\Cloud\404test\bin\Release\net8.0\publish\404test.exe
+C:\Users\Jesper Nyberg\OneDrive\Skrivbord\Cloud\404test\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Jesper Nyberg\OneDrive\Skrivbord\Cloud\404test\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Jesper Nyberg\OneDrive\Skrivbord\Cloud\404test\bin\Release\net8.0\publish\404test.dll
+C:\Users\Jesper Nyberg\OneDrive\Skrivbord\Cloud\404test\bin\Release\net8.0\publish\404test.deps.json
+C:\Users\Jesper Nyberg\OneDrive\Skrivbord\Cloud\404test\bin\Release\net8.0\publish\404test.runtimeconfig.json
+C:\Users\Jesper Nyberg\OneDrive\Skrivbord\Cloud\404test\bin\Release\net8.0\publish\404test.pdb
